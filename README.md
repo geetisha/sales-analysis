@@ -34,11 +34,3 @@ Each file contains anywhere from around `9000` to `26000` rows and `6` columns. 
 * Pandas
 * Matplotlib
 
-
-
-## Contact
-
-Sinjoy Saha 
-  * [LinkedIn](https://linkedin.com/in/sinjoysaha)
-  * [Twitter](https://twitter.com/SinjoySaha)
-
